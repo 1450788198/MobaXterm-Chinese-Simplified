@@ -65,8 +65,11 @@ MobaXterm_Installer_v26.5.zip
   → build/MobaXterm_zh.exe
 ```
 
+📘 **完整方法论见 [SKILLS.md](SKILLS.md)** —— 解包链路、DFM 格式、注入通道、
+字体策略、运行时覆写排障、新版上手 Checklist。
+
 辅助工具：`dfm.py`（Delphi 二进制 DFM 读写）、`xalign.py`（跨版本结构对齐挖词）、
-`rtres.py`（RT_STRING 整块继承）、`memscan*.py`（运行时内存取证）。
+`rtres.py`（RT_STRING 整块继承）、`memscan.py`（运行时内存取证）、`mz.py`（窗口抓图/点击驱动）。
 
 ## 免责声明
 
